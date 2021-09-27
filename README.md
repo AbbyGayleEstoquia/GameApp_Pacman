@@ -1,4 +1,4 @@
-# Pac-Man mini
+# Pac-Man 
 > **A mini version of the very famous *Pac-Man* game, made using Flutter and Dart Language.**<p>
 </p>
 
